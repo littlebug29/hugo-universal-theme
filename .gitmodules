@@ -1,0 +1,3 @@
+[submodule "newuniversal"]
+	path = themes/universal
+	url = git@github.com:littlebug29/hugo-universal-theme.git
