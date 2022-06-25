@@ -14,25 +14,25 @@
   translation: "Address"
 
 - id: contactTitle
-  translation: "Contact"
+  translation: "Liên hệ"
 
 - id: contactForm
-  translation: "Contact form"
+  translation: "Điền thông tin liên hệ"
 
 - id: contactName
-  translation: "Your Name"
+  translation: "Họ và Tên"
 
 - id: contactMail
-  translation: "Your Email"
+  translation: "Email"
 
 - id: contactMessage
-  translation: "Your Message"
+  translation: "Tin nhắn"
 
 - id: contactSend
-  translation: "Send Message"
+  translation: "Gửi"
 
 - id: navHome
-  translation: "go to homepage"
+  translation: "Về trang chủ"
 
 - id: navToggle
   translation: "Toggle Navigation"
@@ -59,7 +59,7 @@
   translation: "Recent posts"
 
 - id: aboutUs
-  translation: "About us"
+  translation: "Về chúng tôi"
 
 - id: newer
   translation: "Newer"
@@ -77,7 +77,7 @@
   translation: "We are sorry – this page is not here anymore"
 
 - id: 404NavHome
-  translation: "Go to homepage"
+  translation: "Về Trang chủ"
 
 - id: January
   translation: January
