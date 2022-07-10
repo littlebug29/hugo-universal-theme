@@ -1,17 +1,17 @@
 - id: home
-  translation: "Home"
+  translation: "Trang chủ"
 
 - id: templateBy
-  translation: "Template by"
+  translation: "Thiết kế bởi"
 
 - id: portedBy
-  translation: "Ported to Hugo by"
+  translation: "Xuất bản bởi"
 
 - id: contactGoTo
-  translation: "Go to contact page"
+  translation: "Tới trang liên hệ"
 
 - id: contactAddrTitle
-  translation: "Address"
+  translation: "Địa chỉ"
 
 - id: contactTitle
   translation: "Liên hệ"
@@ -38,79 +38,79 @@
   translation: "Toggle Navigation"
 
 - id: categoriesTitle
-  translation: "Categories"
+  translation: "Danh mục"
 
 - id: searchTitle
-  translation: "Search"
+  translation: "Tìm kiếm"
 
 - id: tagsTitle
-  translation: "Tags"
+  translation: "Thẻ"
 
 - id: continueReading
-  translation: "Continue reading"
+  translation: "Xem tiếp"
 
 - id: readMore
-  translation: "Read more"
+  translation: "Đọc thêm"
 
 - id: authorBy
-  translation: "By"
+  translation: "bởi"
 
 - id: recentPosts
-  translation: "Recent posts"
+  translation: "Các hoạt động gần đây"
 
 - id: aboutUs
   translation: "Về chúng tôi"
 
 - id: newer
-  translation: "Newer"
+  translation: "Mới hơn"
 
 - id: older
-  translation: "Older"
+  translation: "Cũ hơn"
 
 - id: publishedOn
   translation: "on"
 
 - id: 404Error
-  translation: "Error 404: Page not found"
+  translation: "Rất tiếc, chúng tôi không tìm thấy trang bạn yêu cầu."
 
 - id: 404Message
-  translation: "We are sorry – this page is not here anymore"
+  translation: "Xin thứ lỗi, trang bạn đang tìm hiện không còn khả dụng"
 
 - id: 404NavHome
   translation: "Về Trang chủ"
 
 - id: January
-  translation: January
+  translation: Tháng Một
 
 - id: February
-  translation: February
+  translation: Tháng Hai
 
 - id: March
-  translation: March
+  translation: Tháng Bả
 
 - id: April
-  translation: April
+  translation: Tháng Tư
 
 - id: May
-  translation: May
+  translation: Tháng Năm
 
 - id: June
-  translation: June
+  translation: Tháng Sáu
 
 - id: July
-  translation: July
+  translation: Tháng Bảy
 
 - id: August
-  translation: August
+  translation: Tháng Tám
 
 - id: September
-  translation: September
+  translation: Tháng Chín
 
 - id: October
-  translation: October
+  translation: Tháng Mười
 
 - id: November
-  translation: November
+  translation: Tháng Mười Một
 
 - id: December
-  translation: December
+  translation: Tháng Mười Hai
